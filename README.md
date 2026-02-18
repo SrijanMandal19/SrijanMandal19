@@ -1,4 +1,4 @@
-<img align="center" src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" alt="Warp Speed" width="100%" />
+<img align="center" src="https://media.giphy.com/media/DyCkq47F79p8k/giphy.gif" alt="Retro Grid" width="100%" />
 
 <h1 align="left">
   Hi, I'm <strong>Srijan Mandal</strong>
