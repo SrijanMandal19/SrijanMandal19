@@ -1,10 +1,10 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:833ab4,50:fd1d1d,100:fcb045&height=300&section=header&text=Srijan%20Mandal&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Code%20%7C%20Data%20%7C%20Intelligence&descAlignY=55&descAlign=50"/>
-</div>
+<img align="center" src="https://i.pinimg.com/originals/3e/0e/41/3e0e414c27a9225c56d2038f4d95a285.gif" alt="Neural Network" width="100%" />
 
 <h1 align="left">
   Hi, I'm <strong>Srijan Mandal</strong>
 </h1>
+
+<h3>B.Tech IT Student | AI/ML • Data Science • Deep Learning</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
