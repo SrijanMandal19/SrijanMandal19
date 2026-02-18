@@ -1,4 +1,4 @@
-<img align="center" src="https://i.pinimg.com/originals/3e/0e/41/3e0e414c27a9225c56d2038f4d95a285.gif" alt="Neural Network" width="100%" />
+<img align="center" src="https://user-images.githubusercontent.com/103304415/192133968-3e580437-5847-497b-83c9-04332924157d.gif" alt="Skyline" width="100%" />
 
 <h1 align="left">
   Hi, I'm <strong>Srijan Mandal</strong>
