@@ -1,4 +1,4 @@
-<img align="center" src="https://i.pinimg.com/originals/24/c8/5e/24c85ee224523c6314c107e324c4310d.gif" alt="Geometric Web" width="100%" />
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Particles" width="100%" />
 
 <h1 align="left">
   Hi, I'm <strong>Srijan Mandal</strong>
