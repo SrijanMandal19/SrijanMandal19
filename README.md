@@ -1,4 +1,4 @@
-<img align="center" alt="Data Science Banner" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<img align="center" alt="Matrix Code" src="https://media.giphy.com/media/26tn33aiTi1jbp6x2/giphy.gif" width="100%" />
 
 <h1 align="left">
   Hi, I'm <strong>Srijan Mandal</strong>
