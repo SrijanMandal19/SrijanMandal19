@@ -1,4 +1,4 @@
-<img align="center" src="https://user-images.githubusercontent.com/103304415/192133968-3e580437-5847-497b-83c9-04332924157d.gif" alt="Skyline" width="100%" />
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Particles" width="100%" />
 
 <h1 align="left">
   Hi, I'm <strong>Srijan Mandal</strong>
