@@ -1,4 +1,4 @@
-<img align="center" alt="Network Banner" src="https://i.pinimg.com/originals/3e/0e/41/3e0e414c27a9225c56d2038f4d95a285.gif" width="100%" />
+<img align="center" alt="Circuit Banner" src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" />
 
 <h1 align="left">
   Hi, I'm <strong>Srijan Mandal</strong>
