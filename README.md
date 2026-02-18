@@ -1,109 +1,74 @@
-<img align="center" src="https://i.pinimg.com/originals/24/c8/5e/24c85ee224523c6314c107e324c4310d.gif" alt="Geometric Web" width="100%" />
-
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 <h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
   Hi, I'm <strong>Srijan Mandal</strong>
 </h1>
-
 <h3>B.Tech IT Student | AI/ML • Data Science • Deep Learning</h3>
-
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-
   <p>
-    I’m an AI/ML enthusiast who enjoys building machine learning models that solve real-world problems. 
-    From participating in hackathons to developing end-to-end ML systems, I focus on turning ideas into practical, working solutions.
+    I'm a B.Tech IT student passionate about AI, Machine Learning, and Data Science.  
+    I love building intelligent systems, diving into real-world data, and turning complex problems into smart, meaningful solutions.
   </p>
-  
-  <p>
-    I combine strong fundamentals with research-driven thinking, while continuously improving by building, experimenting, and learning through real-world projects.
-  </p>
-
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
     <a href="mailto:mandal.srijan02@gmail.com"><img src="https://img.shields.io/badge/📧_mandal.srijan02@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collaboration_(AI%2FML)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🧠_Learning_&_Building-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(AI/ML_•_Research_•_Real--World_Projects_•_Hackathons)-1e1e2e?style=for-the-badge" />
   </p>
-
 <h3>🌐 Socials</h3>
-  
 <p align="left">
-  <a href="https://linkedin.com/in/srijan-mandal19/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
   <a href="https://github.com/SrijanMandal19">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
-
-  <a href="mailto:mandal.srijan02@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/srijan-mandal19/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 </p>
-
   <img src="https://komarev.com/ghpvc/?username=SrijanMandal19&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
-
 <br clear="all" />
-
-## 🛠️ Skills
-
+🛠️ Skills
 <p align="center">
 <table>
 <tr>
 <td width="50%" align="center">
-  <h3>💻 Languages</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <br/><br/>
+<h3>💻 Languages & Databases</h3>
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+<br/><br/>
 </td>
-
 <td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-   <br/>
-   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-   <br/>
-   <img src="https://img.shields.io/badge/Matplotlib-3F4F75?style=for-the-badge&logo=python&logoColor=white" />
-   <img src="https://img.shields.io/badge/Seaborn-3F4F75?style=for-the-badge&logo=python&logoColor=white" />
-   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-   <br/>
-   <br/><b>Learning:</b><br/>
-   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<h3>🤖 ML / DL Libraries</h3>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+<br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </td>
 </tr>
-
 <tr>
 <td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <br/><br/>
+<h3>📊 Visualization & Deployment</h3>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<br/><br/>
 </td>
-
 <td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <br/>
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<h3>🚀 Currently Learning</h3>
+<img src="https://skillicons.dev/icons?i=flask,fastapi,opencv" />
+<br/><br/>
 </td>
 </tr>
 </table>
 </p>
-
-## 📊 GitHub Stats
-
+📊 GitHub Stats
 <div align="center">
   <br/>
   <img src="https://streak-stats.demolab.com?user=SrijanMandal19&theme=dark&hide_border=true" alt="Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=SrijanMandal19&show_icons=true&theme=dark&hide_border=true" alt="Stats" />
 </div>
 
----
+❤️ Support Me
+<p align="center">
+  <a href="https://www.buymeacoffee.com/">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+  </a>
+</p>
