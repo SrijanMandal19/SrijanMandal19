@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Srijan%20Mandal&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20/%20ML%20Enthusiast&descAlignY=51&descAlign=50"/>
-</div>
+<img align="center" alt="AI Banner" src="https://i.pinimg.com/originals/e0/a1/38/e0a138947b0a8296a1a156e542104332.gif" width="100%" />
 
 <h1 align="left">
   Hi, I'm <strong>Srijan Mandal</strong>
