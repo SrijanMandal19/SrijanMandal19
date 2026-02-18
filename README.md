@@ -1,11 +1,10 @@
-<img align="center" alt="Circuit Banner" src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:8EC5FC,100:E0C3FC&height=300&section=header&text=Srijan%20Mandal&fontSize=80&fontColor=333333&animation=fadeIn&fontAlignY=40&desc=Data%20Scientist%20%26%20Machine%20Learning%20Engineer&descAlignY=55&descAlign=50&descColor=444444"/>
+</div>
 
 <h1 align="left">
   Hi, I'm <strong>Srijan Mandal</strong>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
 </h1>
-
-<h3>B.Tech IT Student | AI/ML • Data Science • Deep Learning</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
