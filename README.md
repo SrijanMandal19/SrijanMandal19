@@ -40,28 +40,6 @@
   </a>
 </p>
 
-<h3>🌐 Socials</h3>
-  
-<p align="left">
-  <a href="https://github.com/SrijanMandal19">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/srijan-mandal19/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="mailto:mandal.srijan02@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-  <img src="https://komarev.com/ghpvc/?username=SrijanMandal19&style=flat-square&color=blue" alt="Profile Visit"/>
-</div>
-
-<br clear="all" />
-
-
 ## 🛠️ Skills
 <p align="center">
 <table>
