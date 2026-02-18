@@ -1,8 +1,11 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3F4F75&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Srijan+Mandal;AI%2FML+Enthusiast;Building+Data+Science+Solutions;Always+Learning..." alt="Typing SVG" />
-</div>
+<img align="center" alt="Cyberpunk Banner" src="https://media.giphy.com/media/u4Fv9hV4F9z9K/giphy.gif" width="100%" />
 
-<h3 align="center">B.Tech IT Student | AI/ML • Data Science • Deep Learning</h3>
+<h1 align="left">
+  Hi, I'm <strong>Srijan Mandal</strong>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+</h1>
+
+<h3>B.Tech IT Student | AI/ML • Data Science • Deep Learning</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
